@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[macrumors site](https://www.macrumors.com)
